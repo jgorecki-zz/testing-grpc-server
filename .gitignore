@@ -123,8 +123,8 @@ GitHub.sublime-settings
 .sonarlint/*
 .idea/sonarlint/*
 cloud_sql_proxy
-*pb2.py
-*pb2_grpc.py
+# *pb2.py
+# *pb2_grpc.py
 
 *.orig
 *.jfg
